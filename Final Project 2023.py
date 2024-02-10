@@ -4,7 +4,7 @@ from pathlib import Path
 from time import sleep
 
 # Constants
-API_KEY = '48EsLPXt1kynelCRYmkh206vXHvt6pd1'
+API_KEY = 'Add your own API Key'
 URL = 'https://api.nytimes.com/svc/search/v2/articlesearch.json'
 OUTPUT_FILE = 'nyt_annual_climate_article_counts.csv'
 REQUEST_DELAY = 20  # in seconds
